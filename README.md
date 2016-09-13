@@ -40,7 +40,7 @@ by [Louis Lazaris](https://www.impressivewebs.com),
 
 Methodologies:
 
-* [Scalable and Modular Architecture for CSS](), 
+* [Scalable and Modular Architecture for CSS](https://smacss.com), 
 by [Jonathen Snook](https://snook.ca)
 * [Object Oriented CSS](https://github.com/stubbornella/oocss/wiki),
 by [Nicole Sullivan](http://www.stubbornella.org/content/), 2013-12
