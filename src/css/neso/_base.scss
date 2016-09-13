@@ -1,0 +1,26 @@
+/* stylelint-disable selector-no-universal */
+
+* {
+  box-sizing: border-box; }
+
+/* stylelint-enable */
+
+body {
+  font: 100% $font-stack;
+  background: color("background");
+  color: color("text"); }
+
+/* stylelint-disable declaration-no-important */
+
+.hidden {
+  display: none !important; }
+
+/* stylelint-enable */
+
+.center {
+  margin: 0 auto; }
+
+hr {
+  border: none;
+  background-color: color("border");
+  height: 1px; }

@@ -1,0 +1,12 @@
+@function color($key) {
+  @return map-get($colors, $key);
+}
+
+@function size-px($numerator, $divisor: 12, $size: 960) {
+  $calcSize: $numerator / $divisor * $size;
+  @return ($calcSize)+px;
+}
+
+@function size-pc($numerator, $divisor: 12) {
+  @return (100 / $divisor * $numerator)+%;
+}

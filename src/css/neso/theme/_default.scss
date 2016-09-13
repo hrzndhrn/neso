@@ -1,0 +1,28 @@
+$font-stack: helvetica, sans-serif;
+
+$radius: 3px;
+
+/* stylelint-disable no-indistinguishable-colors */
+
+$white: #ffffff;
+$black: #000000;
+$graphite: #251607;
+$mine-shaft: #323232;
+$silver-chalice: #acacac;
+$dodger-blue: #1e90ff;
+$governor-bay: #2f3cb3;
+
+$colors: (
+  "background": $white,
+  "foreground": $black,
+  "text": $black,
+  "primary": $dodger-blue,
+  "border": $silver-chalice,
+  "black": $black,
+  "white": $white,
+  "gray": $silver-chalice,
+  "blue": $dodger-blue
+);
+
+/* stylelint-enable */
+

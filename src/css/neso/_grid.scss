@@ -1,0 +1,42 @@
+div.grid {
+  display: flex;
+
+  > div {
+    margin: 0;
+    display: inline-block; }
+
+  .col-1 {
+    width: size-pc(1); }
+
+  .col-2 {
+    width: size-pc(2); }
+
+  .col-3 {
+    width: size-pc(3); }
+
+  .col-4 {
+    width: size-pc(4); }
+
+  .col-5 {
+    width: size-pc(5); }
+
+  .col-6 {
+    width: size-pc(6); }
+
+  .col-7 {
+    width: size-pc(7); }
+
+  .col-8 {
+    width: size-pc(8); }
+
+  .col-9 {
+    width: size-pc(9); }
+
+  .col-10 {
+    width: size-pc(10); }
+
+  .col-11 {
+    width: size-pc(11); }
+
+  .col-12 {
+    width: size-pc(12); }}

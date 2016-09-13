@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+src/
+test/
+gulpfile.js
+.DS_Store
+.babelrc
+.flowconfig
+karma.conf.js

@@ -1,0 +1,27 @@
+# npm dependencies directory
+node_modules
+
+# istanbul coverage directory
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# build directory
+dist
+
+# SASS
+.sass-cache
+
+# OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vim swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+gulp-es6-module-template.tar

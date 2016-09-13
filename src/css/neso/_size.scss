@@ -1,0 +1,42 @@
+$cols: 12;
+$max-size: 960;
+
+/* stylelint-disable declaration-no-important */
+
+.size-1 {
+  width: size-px(1, $cols, $max-size) !important; }
+
+.size-2 {
+  width: size-px(2, $cols, $max-size) !important; }
+
+.size-3 {
+  width: size-px(3, $cols, $max-size) !important; }
+
+.size-4 {
+  width: size-px(4, $cols, $max-size) !important; }
+
+.size-5 {
+  width: size-px(5, $cols, $max-size) !important; }
+
+.size-6 {
+  width: size-px(6, $cols, $max-size) !important; }
+
+.size-7 {
+  width: size-px(7, $cols, $max-size) !important; }
+
+.size-8 {
+  width: size-px(8, $cols, $max-size) !important; }
+
+.size-9 {
+  width: size-px(9, $cols, $max-size) !important; }
+
+.size-10 {
+  width: size-px(10, $cols, $max-size) !important; }
+
+.size-11 {
+  width: size-px(11, $cols, $max-size) !important; }
+
+.size-12 {
+  width: size-px(12, $cols, $max-size) !important; }
+
+/* stylelint-enable */

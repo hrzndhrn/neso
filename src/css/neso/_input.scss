@@ -1,0 +1,24 @@
+input[type = "text"] {
+  vertical-align: middle;
+  padding: 0.5rem;
+  border-radius: $radius;
+  border: 1px solid color("border"); }
+
+input[type = "text"]:disabled {
+  cursor: default;
+  background-color: lighten(color("border"), 40%);
+  color: lighten(color("text"), 30%);
+  border: 1px solid lighten(color("border"), 20%); }
+
+div.form-group {
+
+  input:first-child,
+  button:first-child {
+    border-right: none;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0; }
+
+  input:last-child,
+  button:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; }}

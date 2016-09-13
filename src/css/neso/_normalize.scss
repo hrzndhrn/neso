@@ -1,0 +1,27 @@
+/*! _normalize.scss for neso | MIT License | github.com/vivai/neso
+ *
+ * The original normalize:
+ * normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css
+ */
+
+// Change the default font family in all browsers.
+// Remove the margine in all browsers.
+@import "normalize/base";
+
+// HTML5 display definitions
+@import "normalize/html5";
+
+// Links
+@import "normalize/links";
+
+// Text-level semantics
+@import "normalize/text";
+
+// Embedded content 
+@import "normalize/embed";
+
+// Grouping content
+@import "normalize/grouping";
+
+// Forms
+@import "normalize/forms";

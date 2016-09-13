@@ -1,0 +1,7 @@
+button.primary {
+  border: darken(color("primary"), 50%) solid 1px;
+  color: lighten(color("text"), 90%);
+  background: darken(color("primary"), 20%); }
+
+button.primary:hover {
+  background: darken(color("primary"), 30%); }

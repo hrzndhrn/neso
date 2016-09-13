@@ -1,0 +1,32 @@
+div.palette {
+  white-space: nowrap;
+  height: 2.5rem;
+}
+
+span.color {
+  padding: 0.5rem;
+}
+
+span.gray-darken-10 {
+  background-color: darken(color("gray"), 10%);
+}
+
+span.gray {
+  background-color: color("gray");
+}
+
+span.gray-lighten-10 {
+  background-color: lighten(color("gray"), 10%);
+}
+
+span.gray-lighten-20 {
+  background-color: lighten(color("gray"), 20%);
+}
+
+span.gray-lighten-30 {
+  background-color: lighten(color("gray"), 30%);
+}
+
+span.primary {
+  background-color: color("primary");
+}

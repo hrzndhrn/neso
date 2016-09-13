@@ -1,0 +1,13 @@
+/**
+ * Change the default font family in all browsers (opinionated).
+ * Prevent adjustments of font size after orientation changes in IE and iOS.
+ */
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+/**
+ * Remove the margin in all browsers (opinionated).
+ */
+body {
+  margin: 0; }
