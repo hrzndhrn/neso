@@ -30,7 +30,7 @@ by [Mark Otto](http://markdotto.com), 2012-03-02
 * [The "Other" Interface: Atomic Design With Sass]
 (https://www.smashingmagazine.com/2013/08/other-interface-atomic-design-sass/), 
 by [Robin Rendle](https://robinrendle.com), 2013-08-02
-* [Challenging CSS Best Practices](),
+* [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/),
 by [Thierry Koblentz](http://www.cssmojo.com),
 2013-10-21
 * [An Introduction To Object Oriented CSS (OOCSS)]
