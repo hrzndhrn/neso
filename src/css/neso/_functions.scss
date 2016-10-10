@@ -2,6 +2,10 @@
   @return map-get($colors, $key);
 }
 
+@function grid($key) {
+  @return map-get($grid,$key);
+}
+
 @function size-px($numerator, $divisor: 12, $size: 960) {
   $calcSize: $numerator / $divisor * $size;
   @return ($calcSize)+px;

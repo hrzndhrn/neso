@@ -1,0 +1,10 @@
+$cols: 12
+$max-size: 960
+
+/* stylelint-disable declaration-no-important */
+
+@for $i from 1 through $cols
+  .size-#{$i}
+    width: $max-size / $cols * $i !important
+
+/* stylelint-enable */
