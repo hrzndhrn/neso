@@ -46,6 +46,13 @@ by [Jonathen Snook](https://snook.ca)
 by [Nicole Sullivan](http://www.stubbornella.org/content/), 2013-12
 * [BEM](https://en.bem.info/methodology/)
 
+React: CSS in JS:
+* [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js), 
+by Christopher ["vjeux"](https://speakerdeck.com/vjeux) Chedeau, 2014-11
+* [React: CSS in JS techniques comparsion](https://github.com/MicheleBertoli/css-in-js),
+by Michele Bertoli
+
+
 ## Version 0.0.1
 
 Neso is at this time a proof of concept and a collection of some experiments.
