@@ -51,7 +51,7 @@ React: CSS in JS:
 by Christopher ["vjeux"](https://speakerdeck.com/vjeux) Chedeau, 2014-11
 * [React: CSS in JS techniques comparsion](https://github.com/MicheleBertoli/css-in-js),
 by Michele Bertoli
-* [Belle - Configurable React Component with great UX]{http://nikgraf.github.io/belle/#/?_k=ky8p3n}
+* [Belle - Configurable React Component with great UX](http://nikgraf.github.io/belle/#/?_k=ky8p3n)
 
 
 ## Version 0.0.1
